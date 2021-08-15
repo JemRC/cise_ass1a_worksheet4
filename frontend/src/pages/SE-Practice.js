@@ -8,6 +8,7 @@ const SEPractice = () => {
     return (
       <div>
         <h2>Select SE Practice to get evidence for the claimed benefits</h2>
+        <option value="">Select an SE Practice </option>
         <Dropdown/>
         <Styles>
         <Table
